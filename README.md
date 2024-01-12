@@ -2,19 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Shaik+yusuf!;" />
 </h1>
 
-<h3 align="center">A passionate front-end developer from India 🇮🇳</h3>
+<h3 align="center">A passionate full-stack web developer from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m **a fresher**
+ 👶🏻 I’m **a fresher**
  
  🌱 I’m currently learning **Git, MongoDB**
 
 💬 Ask me about **Html, Css, Javascript, React... or anything [here](https://github.com/shaikyusuf08/shaikyusuf08/issues)**
 
-⚡ Fun fact **Your brain is constantly eating itself**
+✨ Fun fact **Your brain is constantly eating itself**
 
  </div>
  
